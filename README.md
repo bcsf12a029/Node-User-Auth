@@ -3,6 +3,8 @@ Simple user signup and authentication(login) example project with MongoDb, Expre
 
 ## How to run
 
+![Running this project on localhost](http://funnypicture.org/wallpaper/2015/05/funny-cat-running-17-hd-wallpaper.jpg "Do one thing crazy and run like Hell!")
+
 1. Download the project and unzip.
 
 2. Download and install Node server from [HERE](https://nodejs.org/en/)
