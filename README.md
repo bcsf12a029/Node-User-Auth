@@ -19,4 +19,4 @@ Simple user signup and authentication(login) example project with MongoDb, Expre
 
 7. Open the Url, the server is listening to, in browser.
 ___
-[Note] I am not downloading MongoDb for this project, I am using online MongoDb service provided by [MongoLab](https://www.mongolab.com/)
+[Note]I am using online MongoDb service provided by [MongoLab](https://www.mongolab.com/)
